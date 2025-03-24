@@ -25,9 +25,10 @@ Explored key determinants of employee job satisfaction through exploratory data 
   - [Slide](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Employee%20Satisfaction%20Analysis%20Slides.pptx)
 
 ## Skills
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
-- SQL, Excel, Tableau, PowerBI
-- Linear Regression, Data Visualization, Statistical Analysis
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn,Statsmodels)
+- SQL, Excel, Tableau, R, PowerBI
+- Linear Regression, Data Visualization, Statistical Analysis, A/B Testing, Chi-squared Test, Hypothesis Testing
+
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/shijin-zhu/]
