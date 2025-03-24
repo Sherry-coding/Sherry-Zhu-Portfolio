@@ -6,7 +6,7 @@
 
 ## Python Projects
 - [Booking Customer Reviews Analysis](python-projects/project1): Analyzing patterns and review sentiment in luxury hotel reviews.
-- [Airbnb After Covid Analysis](python-projects/project2): Analyzing factors affecting Airbnb prices and reviews in Los Angeles.
+- [Airbnb After Covid Analysis]([python-projects/project2](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Airbnb%20Project%20Code.ipynb)(https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Airbnb%20Project2%20Code.ipynb)): Analyzing factors affecting Airbnb prices and reviews in Los Angeles.
 
 ## Presentations
 - [Booking Customer Review Patterns Slides](presentations/Project1-slides.pdf)
