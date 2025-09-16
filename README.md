@@ -7,6 +7,12 @@
 
 ## Projects
 
+### Streaming Platform Content Anakysis:
+This project focused on designing and analyzing a data-driven solution for a streaming platform, with the goal of improving user engagement, retention, and content discovery. By leveraging user activity data, subscription patterns, and recommendation logic, I applied advanced analytics to uncover key insights into viewer behavior and preferences. The work involved exploratory data analysis, predictive modeling, and visualization of performance metrics to highlight how different content strategies impact user satisfaction and business growth. The final deliverable combined both technical rigor and business storytelling, demonstrating my ability to connect data analysis with strategic decision-making in the entertainment and media domain.
+  - [Slide](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Streaming%20Platform%20Project.pdf)
+  - [Notebook 1](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Streaming%20Platform%20Code%20Part1)
+  - [Notebook 2](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Streaming%20Platform%20Code%20Part2)
+    
 ### Airbnb After Covid Analysis: 
 Conducted an in-depth exploration of Airbnb market dynamics in Los Angeles pre- and post-COVID-19. This analysis included examining pricing trends, minimum stay requirements, availability fluctuations, and review frequency. Techniques included statistical trend analysis and correlation assessments, revealing shifts toward longer-term rentals post-pandemic. Additionally, sentiment and keyword analysis identified successful listing characteristics and emphasized host responsiveness and location-related factors influencing listing popularity and guest satisfaction.
   - [Notebook 1](https://github.com/Sherry-coding/Sherry-Zhu-Portfolio/blob/main/Airbnb%20Project%20Code.ipynb)
